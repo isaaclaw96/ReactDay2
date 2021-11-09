@@ -1,0 +1,12 @@
+.content_section{
+    display:flex;
+    flex-direction: column;
+    overflow: scroll;
+}
+
+.wrap_section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

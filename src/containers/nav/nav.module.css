@@ -1,0 +1,10 @@
+nav {
+    height: 100vh;
+    width: 20%;
+    background-color: gray;
+    padding: 30px;
+    border: 1px solid black;
+}
+nav>*{
+    margin-bottom: 80px;
+}

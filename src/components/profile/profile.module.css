@@ -1,0 +1,30 @@
+.profile_section{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.profile_top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sort_field{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.dropdown{
+    margin-left: 15px;
+}
+
+.movie_holder{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+}
