@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/isaaclaw96/ReactDay2.git/static/css/main.442960d7.chunk.css",
+    "main.js": "/isaaclaw96/ReactDay2.git/static/js/main.2c5bb8c7.chunk.js",
+    "main.js.map": "/isaaclaw96/ReactDay2.git/static/js/main.2c5bb8c7.chunk.js.map",
+    "runtime-main.js": "/isaaclaw96/ReactDay2.git/static/js/runtime-main.138028cf.js",
+    "runtime-main.js.map": "/isaaclaw96/ReactDay2.git/static/js/runtime-main.138028cf.js.map",
+    "static/js/2.cbd191d7.chunk.js": "/isaaclaw96/ReactDay2.git/static/js/2.cbd191d7.chunk.js",
+    "static/js/2.cbd191d7.chunk.js.map": "/isaaclaw96/ReactDay2.git/static/js/2.cbd191d7.chunk.js.map",
+    "static/js/3.0eb8775e.chunk.js": "/isaaclaw96/ReactDay2.git/static/js/3.0eb8775e.chunk.js",
+    "static/js/3.0eb8775e.chunk.js.map": "/isaaclaw96/ReactDay2.git/static/js/3.0eb8775e.chunk.js.map",
+    "index.html": "/isaaclaw96/ReactDay2.git/index.html",
+    "static/css/main.442960d7.chunk.css.map": "/isaaclaw96/ReactDay2.git/static/css/main.442960d7.chunk.css.map",
+    "static/js/2.cbd191d7.chunk.js.LICENSE.txt": "/isaaclaw96/ReactDay2.git/static/js/2.cbd191d7.chunk.js.LICENSE.txt",
+    "static/media/anchorman.16b339d8.jpg": "/isaaclaw96/ReactDay2.git/static/media/anchorman.16b339d8.jpg",
+    "static/media/bbq.2c30cab0.jpg": "/isaaclaw96/ReactDay2.git/static/media/bbq.2c30cab0.jpg",
+    "static/media/chef.0d9357da.jpg": "/isaaclaw96/ReactDay2.git/static/media/chef.0d9357da.jpg",
+    "static/media/cs.64864d97.jpg": "/isaaclaw96/ReactDay2.git/static/media/cs.64864d97.jpg",
+    "static/media/ib.4a08a987.jpg": "/isaaclaw96/ReactDay2.git/static/media/ib.4a08a987.jpg",
+    "static/media/kill.01324d8d.jpg": "/isaaclaw96/ReactDay2.git/static/media/kill.01324d8d.jpg",
+    "static/media/logo.6ce24c58.svg": "/isaaclaw96/ReactDay2.git/static/media/logo.6ce24c58.svg",
+    "static/media/pulp.000da508.jpg": "/isaaclaw96/ReactDay2.git/static/media/pulp.000da508.jpg",
+    "static/media/snatch.2c601458.jpg": "/isaaclaw96/ReactDay2.git/static/media/snatch.2c601458.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.138028cf.js",
+    "static/js/2.cbd191d7.chunk.js",
+    "static/css/main.442960d7.chunk.css",
+    "static/js/main.2c5bb8c7.chunk.js"
+  ]
+}
